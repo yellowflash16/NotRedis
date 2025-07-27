@@ -1,0 +1,8 @@
+--> Understand how tcp sends data as a  byte stream
+--> Understand the underlying working of system calls like bind, connect, accept etc.
+--> Understand the actual Redis protocol and replace the simple binary protocol with it.
+-->Understand what is the need to use both poll and non-blocking reads and writes.
+--> Replace the incoming and outgoing vectors with dynamically allocated arrays.
+--> Study FNV hash
+-->Study dma in c and c++
+
